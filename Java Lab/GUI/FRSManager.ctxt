@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FRSManager
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ loop\r\n\ @param\ args\ File\ names\ \r\n
+comment2.params=manager
+comment2.target=void\ readPreliminary(FRSManager)
+comment2.text=\r\n\ Reads\ the\ spiceFile\ and\ silkAir\ file.\ \r\n\ @param\ manager\ Instance\ of\ FRSManager.\r\n\ @param\ args\ -\ File\ Name.\r\n
+numComments=3

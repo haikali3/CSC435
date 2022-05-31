@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PhysicalBook
+comment1.params=ISBN\ title\ quantity\ numPage\ hardcover
+comment1.target=PhysicalBook(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment2.params=ISBN\ title\ quantity\ numPage\ hardCover
+comment2.target=void\ setPhysicalBook(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment3.params=
+comment3.target=boolean\ gethardcover()
+comment4.params=
+comment4.target=double\ estimatedPrice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

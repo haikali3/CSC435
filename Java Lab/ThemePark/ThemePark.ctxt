@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ThemePark
+comment1.params=
+comment1.target=ThemePark()
+comment10.params=
+comment10.target=double\ calCharges()
+comment2.params=n\ id\ cat\ ch\ mem
+comment2.target=ThemePark(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment3.params=n\ id\ cat\ ch\ mem
+comment3.target=void\ setThemePark(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getID()
+comment6.params=
+comment6.target=java.lang.String\ getCategory()
+comment7.params=
+comment7.target=boolean\ getChild()
+comment8.params=
+comment8.target=boolean\ getMember()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

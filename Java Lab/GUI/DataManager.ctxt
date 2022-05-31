@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=DataManager
+comment1.params=frs
+comment1.target=DataManager(FRSManager)
+comment1.text=\r\n\ Constructor\ for\ DataManager\r\n\ @param\ frs\ link\ to\ FRSManager\r\n
+comment2.params=FlightFile
+comment2.target=java.util.ArrayList\ readFlight(java.lang.String)
+comment3.params=bookingFile
+comment3.target=java.util.ArrayList\ readBooking(java.lang.String)
+comment4.params=
+comment4.target=void\ readFirst()
+comment5.params=s
+comment5.target=int\ getDay(java.lang.String)
+comment5.text=\r\n\ The\ method\ returns\ an\ Integer\ for\ the\ day\ of\ a\ week.\r\n\ @param\ s\ First\ 3\ letters\ of\ day\ of\ a\ week\r\n\ @return\ Integer\ -\ 1\ for\ SUN,\ 2\ for\ MON\ and\ so\ on.\r\n
+comment6.params=mon
+comment6.target=int\ getMonth(java.lang.String)
+comment6.text=\r\n\ The\ method\ returns\ integer\ for\ month\ you\ pass.\r\n\ @param\ mon\ first\ three\ letters\ of\ month\r\n\ @return\ Integer\ for\ a\ month\ -\ 0\ for\ Jan,\ 1\ for\ Feb\ and\ so\ on\r\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=maxSpeed
+comment2.target=Vehicle(int)
+numComments=3

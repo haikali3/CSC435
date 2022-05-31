@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=ISBN\ title\ quantity
+comment1.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment2.params=ISBN\ title\ quantity
+comment2.target=void\ setBook(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=double\ getQuantity()
+comment4.params=
+comment4.target=double\ estimatedPrice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

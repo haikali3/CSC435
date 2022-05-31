@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Photocopy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Photocopy\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Photocopy()
+comment10.params=
+comment10.target=double\ calPayment()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=nm\ sid\ fac\ at\ mn\ cn
+comment2.target=Photocopy(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=nm\ sid\ fac\ at\ mn\ cn
+comment3.target=void\ setPhotocopy(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getLectName()
+comment5.params=
+comment5.target=java.lang.String\ getStaffID()
+comment6.params=
+comment6.target=java.lang.String\ getFacCode()
+comment7.params=
+comment7.target=java.lang.String\ getAssType()
+comment8.params=
+comment8.target=int\ getMasterNum()
+comment9.params=
+comment9.target=int\ getCopiesNum()
+numComments=12

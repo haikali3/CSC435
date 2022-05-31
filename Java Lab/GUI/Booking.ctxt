@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=bID\ ID\ date\ dTime\ aTime\ st\ sn\ cn\ cid\ cnp
+comment1.target=Booking(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
