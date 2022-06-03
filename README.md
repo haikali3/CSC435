@@ -17,6 +17,7 @@ There are two ways to use this project. You can download and run it or use it as
 
 ### Download and run it with BlueJ or NetBeans
 
+### Clone this repository and run it either by ``command prompt`` or GitHub Desktop
 Install it
 ```git
 git clone https://github.com/haikali3/CSC435
@@ -30,6 +31,7 @@ cd (...)
 3. Pick file you want to run
 4. Compile the object/class  by right click drag all of the class you want to compile.
 5. Run the ``main`` file. 
+6. ``main`` file usually has fragment of code below.
 
 ```java
 public static void main(String[] args)
