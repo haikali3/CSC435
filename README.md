@@ -16,7 +16,7 @@
 There are two ways to use this project. Download and run it with **BlueJ** or **NetBeans**  
 
 ### How to run this repository?
-1.Click on the code button (green button with white text)
+1.Click on the code button (green button with white text)  
 2.Clone this repository and run it either by GitHub Desktop or ``command prompt``  
 Install it
 ```git
