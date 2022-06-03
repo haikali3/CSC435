@@ -20,8 +20,8 @@ There are two ways to use this project. Download and run it with **BlueJ** or **
 2.Clone this repository and run it either by GitHub Desktop or ``command prompt``  
 Install it
 ```git
-git clone https://github.com/haikali3/CSC435
-cd (...)
+git clone https://github.com/<YOUR USER>/CSC435.git
+cd CSC435
 ```
 
 
