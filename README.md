@@ -13,9 +13,7 @@
 
 ## Get Started
 
-There are two ways to use this project. You can download and run it or use it as a dependency.
-
-### Download and run it with BlueJ or NetBeans
+There are two ways to use this project. Download and run it with **BlueJ** or **NetBeans**  
 
 ### Clone this repository and run it either by ``command prompt`` or GitHub Desktop
 Install it
