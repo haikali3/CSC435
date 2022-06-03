@@ -15,7 +15,9 @@
 
 There are two ways to use this project. Download and run it with **BlueJ** or **NetBeans**  
 
-### Clone this repository and run it either by ``command prompt`` or GitHub Desktop
+### How to run this repository?
+1.Click on the code button (green button with white text)
+2.Clone this repository and run it either by GitHub Desktop or ``command prompt``  
 Install it
 ```git
 git clone https://github.com/haikali3/CSC435
