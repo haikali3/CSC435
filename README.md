@@ -41,5 +41,5 @@ public static void main(String[] args)
 ```
 
 
-### How to contribute to this half complete unfinish project?
+### How to contribute?
 read the CONTRIBUTE.md
